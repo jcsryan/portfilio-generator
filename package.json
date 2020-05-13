@@ -1,0 +1,25 @@
+{
+  "name": "portfilio-generator",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcsryan/portfilio-generator.git"
+  },
+  "keywords": [
+    "iddqe"
+  ],
+  "author": "jcsr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcsryan/portfilio-generator/issues"
+  },
+  "homepage": "https://github.com/jcsryan/portfilio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
